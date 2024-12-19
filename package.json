@@ -4,13 +4,6 @@
   "description": "Vue 3 components for Stripe.js: Elements & Checkout",
   "main": "./dist/vue-stripe.umd.js",
   "module": "./dist/vue-stripe.es.js",
-  "exports": {
-    ".": {
-      "import": "./dist/vue-stripe.es.js",
-      "require": "./dist/vue-stripe.umd.js",
-      "types": "./types/vue-stripe.d.ts"
-    }
-  },
   "types": "./types/vue-stripe.d.ts",
   "files": [
     "dist",

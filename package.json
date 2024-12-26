@@ -5,10 +5,6 @@
   "main": "./dist/vue-stripe.umd.js",
   "module": "./dist/vue-stripe.es.js",
   "types": "./types/vue-stripe.d.ts",
-  "files": [
-    "dist",
-    "types"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ectoflow/vue-stripe-js.git"
